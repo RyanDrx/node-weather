@@ -1,2 +1,2 @@
 # node-weather
-Learning Node Weather App.
+Node Weather App. From Udemy course
