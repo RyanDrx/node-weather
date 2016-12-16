@@ -1,2 +1,2 @@
 # node-weather
-Learning Node Weather Ap.
+Learning Node Weather App.
